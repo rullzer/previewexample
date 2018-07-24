@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+	<id>previewexample</id>
+	<name>Example preview app</name>
+	<description>Example preview app skeleton to create app previews</description>
+	<licence>AGPL</licence>
+	<author>Roeland Jago Douma</author>
+	<version>0.0.1</version>
+	<namespace>PreviewExample</namespace>
+	<dependencies>
+		<nextcloud min-version="14" max-version="14" />
+	</dependencies>
+	<types>
+		<filesystem/>
+	</types>
+</info>
